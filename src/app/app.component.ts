@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'iframepage';
+  red = 'rgb(100, 0, 0)'
 }
